@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/services/ProjetService.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/hibernate2/Hibernate2.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/classes/Projet.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/services/TacheService.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/classes/EmployeTache.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/services/EmployeTacheService.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/classes/Tache.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/dao/IDao.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/test/Test2.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/services/EmployeService.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/classes/EmployeTachePK.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/USER/Downloads/H3/src/ma/projet/classes/Employe.java</file>
+        </group>
+    </open-files>
+</project-private>
