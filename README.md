@@ -4,4 +4,3 @@ Diagramme de classe du TAR
 Diagramme de classe du H3
 ![image](https://github.com/BAJEDDI/tphibernate/assets/147507670/f5bd8b05-a9fb-43e6-bdc1-7a86996b0793)
 
-
